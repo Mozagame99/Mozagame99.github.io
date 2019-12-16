@@ -1,0 +1,27 @@
+#footer{
+
+	background: black;
+	padding: 20px;
+
+color: white;
+}
+
+.img1 {
+	transition: 0.3s ease all;
+	margin-top: 5px;
+}
+
+.img1:hover{
+	box-shadow: 0 30px 30px 0px #000;
+	margin-top: -5px
+}
+
+.img2 {
+	transition: 0.3s ease all;
+	margin-top: 5px;
+}
+
+.img2:hover{
+	box-shadow: 0 30px 30px 0px #000;
+	margin-top: -5px
+}
